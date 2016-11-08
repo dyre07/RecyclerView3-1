@@ -4,6 +4,7 @@
 - Praktek RecyclerView 3 (View Detail, Add, Edit, Delete, & Search)
 
 **SCREEN SHOOT**
+
 ![recyclerview3h](https://cloud.githubusercontent.com/assets/22114056/20100899/033cead2-a5f2-11e6-878f-f30e6abd4fb3.JPG)
 ![recyclerview3i](https://cloud.githubusercontent.com/assets/22114056/20100900/0344ac22-a5f2-11e6-97f0-417d4ca19ed5.JPG)
 ![recyclerview3j](https://cloud.githubusercontent.com/assets/22114056/20100901/0347d758-a5f2-11e6-832f-f2dd760ece60.JPG)
